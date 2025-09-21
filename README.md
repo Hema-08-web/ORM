@@ -44,7 +44,7 @@ class MovieAdmin(admin.ModelAdmin):
 
 ## OUTPUT
 
-Include the screenshot of your admin page.
+![alt text](<Screenshot 2025-09-21 185638.png>)
 
 
 ## RESULT
